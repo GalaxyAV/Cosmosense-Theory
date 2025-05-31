@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cosmosense Theory</title>
+    <style>
+        body {
+            background-color: black;
+            color: #d0aaff;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #d09eff;
+            font-weight: bold;
+        }
+        p, li {
+            font-weight: bold;
+        }
+        .warning {
+            background-color: #220022;
+            color: #ff9999;
+            border: 2px solid #aa00aa;
+            padding: 15px;
+            margin: 20px 0;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Cosmosense Theory: The Sensible Explanation of the Hidden Universe</h1>
+<p><strong>A theory by:</strong> Samiran Biswas [GalaxyAV]<br>
+<strong>Age:</strong> 14<br>
+<strong>Date of the theory:</strong> March 27, 2025<br>
+<strong>Arranged by:</strong> ChatGPT by OpenAI</p>
+
+<div class="warning">
+    ⚠️ This is a personal theory by a teenager and is not scientifically verified. Read with curiosity, not certainty.
+</div>
+
+<h2>Chapter 1: The Nature of Gravity</h2>
+<h3>1.1 The Problem with the Time-Space Fabric</h3>
+<ul>
+    <li>Scientists describe space as a "fabric" that bends under the weight of mass, creating gravity.</li>
+    <li>This works in 2D visualizations, but in 3D reality, it doesn’t fully explain how gravity works.</li>
+</ul>
+<h3>1.2 A Better Explanation: Time-Space as a Deep Ocean</h3>
+<ul>
+    <li>Instead of a "fabric," think of time-space as an invisible, dense, deep ocean-like medium that reacts to mass.</li>
+    <li>When a heavy object (like a planet or star) sits in time-space, it compresses the surrounding deep ocean-like medium.</li>
+    <li>The bigger the mass, the stronger the compression.</li>
+    <li>Gravity is just the pressure of this compressed time-space pushing things inward.</li>
+</ul>
+<h3>1.3 The Ocean Analogy</h3>
+<ul>
+    <li>Imagine dropping a heavy sphere into the ocean.</li>
+    <li>The water presses against the sphere from all directions.</li>
+    <li>The deepest point of the ocean is so pressurized that it can compress the sphere to its core.</li>
+    <li>Time-space works the same way: gravity is just the compression force of the dense, deep ocean-like medium.</li>
+</ul>
+<h3>1.4 Why This Explains Black Holes</h3>
+<ul>
+    <li>A black hole is an extreme case of this time-space compression.</li>
+    <li>The pressure around a black hole is millions of times higher than normal time-space—so strong that not even light can escape.</li>
+    <li>This is why black holes have the strongest gravity in the universe.</li>
+</ul>
+<h3>1.5 The Birth of a Black Hole</h3>
+<ul>
+    <li>When a massive star reaches the end of its life, it becomes weaker.</li>
+    <li>As it weakens, it can no longer resist the compression force of time-space.</li>
+    <li>Some stars explode in a supernova, releasing their outer layers into space.</li>
+    <li>Others collapse entirely, crushed by time-space compression, forming a black hole.</li>
+    <li>The core of the dead star shrinks infinitely, creating an object with gravity so strong that nothing escapes.</li>
+</ul>
+<h3>1.6 How Planets Resist Time-Space Compression</h3>
+<ul>
+    <li>A planet’s core pushes outward, balancing the inward compression from time-space.</li>
+    <li>The larger the mass, the stronger this internal pressure must be.</li>
+    <li>This balance keeps planets stable instead of collapsing like black holes.</li>
+    <li>If a planet gains too much mass, its internal force might fail, and it could turn into a black hole.</li>
+</ul>
+
+<h2>Chapter 2: Dark Matter – The True Force of Gravity</h2>
+<h3>2.1 What is Dark Matter?</h3>
+<ul>
+    <li>Scientists say dark matter is an invisible force that holds galaxies together, but no one knows what it really is.</li>
+</ul>
+<h3>2.2 Cosmosense Explanation: Dark Matter is Pressure</h3>
+<ul>
+    <li>Dark matter is not a separate substance—it is the pressure of the time-space itself.</li>
+    <li>We feel this pressure as gravity.</li>
+    <li>The denser the time-space, the stronger the gravity.</li>
+</ul>
+<h3>2.3 Why Dark Matter Affects Galaxies</h3>
+<ul>
+    <li>Galaxies don’t fly apart because they exist in a high-pressure time-space medium.</li>
+    <li>This is why there is "extra" gravity in galaxies, even where there is no visible matter.</li>
+</ul>
+
+<h2>Chapter 3: The Expansion and Contraction of the Universe</h2>
+<h3>3.1 The Universe Breathes, But Not Forever</h3>
+<ul>
+    <li>The universe is currently inflating because of the Big Bang.</li>
+    <li>As it inflates, the energy from the Big Bang decreases because energy is not infinite.</li>
+</ul>
+<h3>3.2 The Balloon Effect and the Loop</h3>
+<ul>
+    <li>The universe is like a rubber balloon. As energy decreases, inflation slows down.</li>
+    <li>When the energy ends, the universe begins to deflate, like a balloon losing air.</li>
+    <li>As galaxies compress together, the pressure and heat increase.</li>
+    <li>This immense compression creates another Big Bang.</li>
+    <li>This cycle continues in loops, but not forever. Eventually, the loop will end.</li>
+</ul>
+
+<h2>Chapter 4: Wormholes – The Hidden Pathways in Space</h2>
+<h3>4.1 What is a Wormhole?</h3>
+<ul>
+    <li>A wormhole is a shortcut through space that lets you travel millions of light-years in just a few years.</li>
+</ul>
+<h3>4.2 How Wormholes Form</h3>
+<ul>
+    <li>Wormholes are actually dead black holes.</li>
+    <li>They form a spinning tunnel that pokes through time-space and enters a dimension where time is not affected.</li>
+    <li>The tunnel carries objects faster than light through this dimension.</li>
+</ul>
+<h3>4.3 Wormholes Are Like Ocean Whirlpools</h3>
+<ul>
+    <li>Like a whirlpool in water, a wormhole pulls objects through space.</li>
+    <li>The wormhole creates a vortex where time-space moves differently.</li>
+</ul>
+<h3>4.4 How Wormholes Allow Faster-Than-Light Travel</h3>
+<ul>
+    <li>The vortex tunnel is like a moving river in time-space.</li>
+    <li>Instead of an object moving, time-space itself moves the object inside the tunnel.</li>
+</ul>
+<h3>4.5 Why Wormholes Are Temporary</h3>
+<ul>
+    <li>The spinning energy that maintains the wormhole eventually runs out.</li>
+    <li>Wormholes only last for a limited time—maybe millions of years.</li>
+</ul>
+
+<h2>Chapter 5: The Merging of Black Holes and Spiral Galaxies</h2>
+<h3>5.1 Black Holes Create Waves in Time-Space</h3>
+<ul>
+    <li>When two black holes merge, they release gravitational waves that ripple through time-space.</li>
+</ul>
+<h3>5.2 How Black Holes Create Spiral Galaxies</h3>
+<ul>
+    <li>When two black holes merge, they create strong gravitational force and angular momentum.</li>
+    <li>This attracts nearby debris, forming an accretion disk.</li>
+    <li>The merger results in a supermassive black hole with a gravitational range stretching millions of light-years.</li>
+    <li>All debris within this range gets pulled in a spiral motion, forming a spiral galaxy.</li>
+</ul>
+
+<h2>Conclusion: The Cosmosense Theory</h2>
+<ul>
+    <li>The Universe is not an actual fluid, but Time-Space acts like a deep, dense, pressurized ocean.</li>
+    <li>Gravity is not a "force"—it is the pressure of compressed Time-Space.</li>
+    <li>Dark Matter is not matter at all. It is simply the hidden pressure of Time-Space.</li>
+    <li>Time-Space is not empty. It is a deep ocean-like, pressurized medium that responds to mass.</li>
+    <li>Black holes, wormholes, galaxies, and the expansion and contraction of the universe all follow the behaviors of this ocean-like Time-Space.</li>
+    <li>The universe inflates from the Big Bang using finite energy and will eventually deflate, forming a cycle of Bang and Crunch.</li>
+    <li>This cycle will continue until the energy runs out.</li>
+</ul>
+
+<p><strong>Directed by:</strong> Samiran Biswas<br>
+<strong>Arranged by:</strong> ChatGPT</p>
+
+</body>
+</html>
